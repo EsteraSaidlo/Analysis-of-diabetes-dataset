@@ -8,7 +8,7 @@ The project was made in order to learn how to use such methods in Python:
 - clustering,
 - multidimensional scaling. 
 
-The analysis was based on the data set from the kaggle platform: https://www.kaggle.com/uciml/pima-indians-diabetes-database.
+The analysis was based on the dataset from the kaggle platform: https://www.kaggle.com/uciml/pima-indians-diabetes-database.
 
 # Main libraries
 - pandas
