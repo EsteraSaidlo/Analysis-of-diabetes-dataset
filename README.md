@@ -18,6 +18,5 @@ The analysis was based on the data set from the kaggle platform: https://www.kag
 - matplotlib
 - random 
 - scipy
-
 # Technologies 
 - Python version 3.7
